@@ -3,7 +3,7 @@
 ## Prepare
 ### ROS packages
 >> 1. realsense2_camera
->> 2. ROOT: git clone: https://github.com/liangzhicong456/Practical_Robotic_Grasping_Method.git
+>> 2. ROOT: git clone: https://github.com/zhanghui-hunan/Practical_Robotic_Grasping_Method.git
 
 ### Environments
 >> 1. Python2.7
