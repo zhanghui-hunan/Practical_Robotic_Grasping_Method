@@ -1,2 +1,5 @@
 # Practical_Robotic_Grasping_Method
-## 1
+## Prepare
+### Install ROS
+#### 1. realsense2_camera
+#### 2. DOPE
