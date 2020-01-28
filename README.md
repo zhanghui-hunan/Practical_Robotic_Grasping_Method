@@ -9,9 +9,8 @@
 >> 1. Python2.7
 >> 2. torch==1.4.0
 
-
 ## Run
-> $ roslaunch realsense2_camera rs_camera.launch
-> $ rosrun dope dope.py
-> $ rqt_image_view
->PS: rostopic: rgb_dope_points
+> 1.$ roslaunch realsense2_camera rs_camera.launch
+> 2.$ rosrun dope dope.py
+> 3.$ rqt_image_view
+> 4.PS: rostopic: rgb_dope_points
