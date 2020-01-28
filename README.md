@@ -11,5 +11,5 @@
 
 
 ## Run
-> $ roslaunch realsense2_camera rs_camera.launch
-> $ rosrun dope dope.py
+>> $ roslaunch realsense2_camera rs_camera.launch
+>> $ rosrun dope dope.py
