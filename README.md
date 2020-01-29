@@ -14,6 +14,6 @@
 
 ## Run
 <br> > $ roslaunch realsense2_camera rs_camera.launch
-<br> > $ rosrun dope dope.py
+<br> > $ rosrun Practical_Robotic_Grasping_Method dope.py
 <br> > $ rqt_image_view
 <br> > PS: rostopic: rgb_dope_points
