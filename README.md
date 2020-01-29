@@ -10,7 +10,7 @@
 >> 2. torch==1.4.0
 
 ### Download weight
->> <br> Download from Baidu Pan: 链接：https://pan.baidu.com/s/11FfmY-IfbzYLuMu8qAsJGA , Extract the code：u0sj 
+>> <br> Download from Baidu Pan: https://pan.baidu.com/s/11FfmY-IfbzYLuMu8qAsJGA , Extract the code：u0sj 
 
 ## Run
 <br> > $ roslaunch realsense2_camera rs_camera.launch
